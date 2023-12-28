@@ -1,1 +1,0 @@
-# github-accounts-finder
